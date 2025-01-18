@@ -1,12 +1,12 @@
 # TMux Ex Machina
 
-A Star Wars terminal-inspired tmux configuration with intelligent pane management and status handling.
+A Star Wars-inspired tmux configuration with intelligent pane management and status handling.
 
 ![Status Bar Preview](docs/preview.png)
 
 ## Features
 
-- 🎨 Cyberpunk-inspired color scheme with deep space background and neon accents
+- 🎨 Star Wars-inspired color scheme with deep space background and dataterm accents
 - 🖥️ Dynamic pane title management
 - 📊 Intelligent status bar with system metrics
 - 🔄 Vim integration for context-aware pane titles
@@ -17,7 +17,7 @@ A Star Wars terminal-inspired tmux configuration with intelligent pane managemen
 ## Components
 
 ### Theme
-- Cyberpunk-inspired color palette
+- Star Wars dataterm-inspired color palette
 - Powerline-style status indicators
 - System resource monitoring
 - Session and window management
@@ -88,7 +88,7 @@ The Ex Machina theme can be customized by modifying the color variables in `~/.t
 ```bash
 # Deep Space Background: #0A1428
 # Bright Interface Blue: #7CB7FF
-# Cyber Cyan: #00F1FF
+# Dataterm Cyan: #00F1FF
 # Mid-space Blue: #1C2F45
 # Light Interface Blue: #5CC2F2
 ```
@@ -130,4 +130,4 @@ MIT
 
 ## Credits
 
-Color scheme inspired by cyberpunk aesthetics and modern terminal themes.
+Color scheme inspired by Star Wars dataterminal aesthetics and modern terminal themes.
