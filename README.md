@@ -2,7 +2,7 @@
 
 A Star Wars-inspired tmux configuration with intelligent pane management and status handling.
 
-![Status Bar Preview](docs/preview.png)
+![Status Bar Preview](tmux-ex-machina.gif)
 
 ## Features
 
